@@ -16,8 +16,10 @@ You can either clone the project using Git or download it as a ZIP.
 
 Option 1: Clone
 
-``git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME``
+``git clone https://github.com/lisacomments/Mental-Health-Advocacy-Newletter-01
+.git
+cd Mental-Health-Advocacy-Newletter-01
+``
 
 Option 2: Download as ZIP
 
