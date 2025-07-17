@@ -18,16 +18,19 @@ Option 1: Clone
 
 ``git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME``
+
 Option 2: Download as ZIP
 
 Click the green Code button on this page.
 Select Download ZIP.
 Extract the folder to your desired location.
+
 2. Open in Browser
 Open the index.html file (or newsletter.html) in any web browser:
 
 Double-click the file, or
 Right-click → Open With → choose your browser
+
 3. Customize the Content
 Edit the text and styles directly in the .html or .css files using a code editor like VS Code or Sublime Text.
 Replace placeholder images and links with your own content.
